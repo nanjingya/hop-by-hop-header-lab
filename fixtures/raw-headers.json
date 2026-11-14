@@ -1,0 +1,11 @@
+[
+  {"name": "Host", "value": "api.example.com"},
+  {"name": "X-Request-Id", "value": "abc-1"},
+  {"name": "Connection", "value": "keep-alive, x-debug-trace"},
+  {"name": "Keep-Alive", "value": "timeout=5"},
+  {"name": "X-Debug-Trace", "value": "1"},
+  {"name": "X-Forwarded-For", "value": "1.2.3.4"},
+  {"name": "X-Evil", "value": "ok\r\nHost: evil.example"},
+  {"name": "Transfer-Encoding", "value": "chunked"},
+  {"name": "Content-Type", "value": "application/json"}
+]

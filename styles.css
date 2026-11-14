@@ -1,0 +1,6 @@
+body{font-family:ui-sans-serif,system-ui;margin:0;background:#0f1419;color:#e7ecf1}
+main{display:grid;grid-template-columns:1.2fr 1fr;min-height:100vh}
+.panel{padding:16px;border-right:1px solid #243041}
+#status{padding:6px 10px;background:#1b2735;border-radius:6px;display:inline-block;margin-bottom:8px}
+button{margin-right:8px;margin-bottom:8px}
+pre{background:#121a24;padding:10px;overflow:auto;max-height:50vh}
